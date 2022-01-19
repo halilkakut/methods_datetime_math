@@ -1,0 +1,16 @@
+C:\Users\ASUS\Desktop\Halil\Pratikler\methods_datetime_math\bin\Debug\net5.0\methods_datetime_math.exe
+C:\Users\ASUS\Desktop\Halil\Pratikler\methods_datetime_math\bin\Debug\net5.0\methods_datetime_math.deps.json
+C:\Users\ASUS\Desktop\Halil\Pratikler\methods_datetime_math\bin\Debug\net5.0\methods_datetime_math.runtimeconfig.json
+C:\Users\ASUS\Desktop\Halil\Pratikler\methods_datetime_math\bin\Debug\net5.0\methods_datetime_math.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Halil\Pratikler\methods_datetime_math\bin\Debug\net5.0\methods_datetime_math.dll
+C:\Users\ASUS\Desktop\Halil\Pratikler\methods_datetime_math\bin\Debug\net5.0\ref\methods_datetime_math.dll
+C:\Users\ASUS\Desktop\Halil\Pratikler\methods_datetime_math\bin\Debug\net5.0\methods_datetime_math.pdb
+C:\Users\ASUS\Desktop\Halil\Pratikler\methods_datetime_math\obj\Debug\net5.0\methods_datetime_math.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Halil\Pratikler\methods_datetime_math\obj\Debug\net5.0\methods_datetime_math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Halil\Pratikler\methods_datetime_math\obj\Debug\net5.0\methods_datetime_math.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Halil\Pratikler\methods_datetime_math\obj\Debug\net5.0\methods_datetime_math.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Halil\Pratikler\methods_datetime_math\obj\Debug\net5.0\methods_datetime_math.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Halil\Pratikler\methods_datetime_math\obj\Debug\net5.0\methods_datetime_math.dll
+C:\Users\ASUS\Desktop\Halil\Pratikler\methods_datetime_math\obj\Debug\net5.0\ref\methods_datetime_math.dll
+C:\Users\ASUS\Desktop\Halil\Pratikler\methods_datetime_math\obj\Debug\net5.0\methods_datetime_math.pdb
+C:\Users\ASUS\Desktop\Halil\Pratikler\methods_datetime_math\obj\Debug\net5.0\methods_datetime_math.genruntimeconfig.cache
